@@ -1,4 +1,4 @@
-# Hoa Duc Viet - Mai Hoàng Việt
+# Hoa Duc Viet
 
 #Trung To - Hau To
 
